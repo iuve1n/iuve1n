@@ -40,7 +40,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iuve1n/iuve1n/output/github-snake-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iuve1n/iuve1n/output/github-snake.svg" />
-      <img alt="github-snake" src="https://raw.githubusercontent.com/DedInc/DedInc/output/github-snake.svg" />
+      <img alt="github-snake" src="https://raw.githubusercontent.com/iuve1n/iuve1n/output/github-snake.svg" />
     </picture>
   </div>
 
