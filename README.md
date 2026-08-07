@@ -20,7 +20,7 @@
 ## 👨‍💻 About Me
  
 - 🎓 Software Engineering student at **Astana IT University**
-- 🔭 Currently building a **mobile-first language-learning social network** — Flutter frontend, Supabase backend
+- 🔭 Currently building a **mobile-first language-learning App** — Flutter frontend, Supabase backend [instagram](https://www.instagram.com/lingot.app/)
 - 🌱 Deepening my skills in **Dart & Flutter**
 - 💬 Ask me about **Dart, Flutter, Python**, or anything else — [open an issue](https://github.com/iuve1n/iuve1n/issues)
 - ⚡ Fun fact: I like turning ideas into working prototypes fast
